@@ -1,0 +1,24 @@
+name: showcast
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - affine
+  - cartopy
+  - folium
+  - gdal
+  - geopandas
+  - glymur
+  - matplotlib
+  - metpy
+  - netcdf4
+  - pandas
+  - Pillow
+  - pygrib
+  - pyhdf
+  - pyorbital
+  - pyproj
+  - pyresample
+  - rasterstats
+  - satpy
+  - siphon
