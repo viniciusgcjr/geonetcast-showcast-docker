@@ -1,6 +1,6 @@
-FROM continuumio/miniconda3
+FROM alpine
 
-RUN apt-get update && apt-get install -y curl unzip
+RUN apk add --update && apk add curl unzip
 
 # https://geonetcast.wordpress.com/2021/03/23/new-showcast-release-v-2-3-0/
 ARG SHOWCAST_URL
@@ -10,23 +10,5 @@ WORKDIR /app
 
 RUN curl -L ${SHOWCAST_URL} -o showcast.zip && \
     unzip showcast.zip -d /app && \
-    mv SHOWCast_v_2_3_0 /app/showcast && \ 
+    mv SHOWCast_v_2_3_0 /app/showcast && \
     rm -rf showcast.zip
-
-RUN echo "python /app/showcast/Scripts/showcast_start.py" > /app/entrypoint.sh && \
-    chmod +x /app/entrypoint.sh
-
-#WORKDIR /app/showcast
-#CMD /app/entrypoint.sh
-
-# Create the environment:
-COPY environment.yaml .
-RUN conda env create -f environment.yaml
-
-# Make RUN commands use the new environment:
-SHELL ["conda", "run", "-n", "showcast", "/bin/bash", "-c"]
-
-# The code to run when container is started:
-COPY run.py .
-ENTRYPOINT ["conda", "run", "--no-capture-output", "-n", "showcast", "python", " /app/showcast/Scripts/showcast_start.py"]
-
