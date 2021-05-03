@@ -1,0 +1,269 @@
+{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "1b",
+    "channelDescription": "CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Height CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Height Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Height Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Temperature Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Temperature Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Clear Sky Mask CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Clear Sky Mask Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Clear Sky Mask Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Phase CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Phase Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Phase Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Aerosol Detection CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Aerosol Detection Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Aerosol Detection Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Aerosol Optical Depth CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Aerosol Optical Depth Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Optical Depth CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Optical Depth Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Particle Size CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Particle Size Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Particle Size Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Pressure CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud Top Pressure Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Motion Winds CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Motion Winds Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Motion Winds Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Stability Indices CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Stability Indices Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Derived Stability Indices Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Downward Shortwave Radiation CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Downward Shortwave Radiation Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Downward Shortwave Radiation Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Fire (Hot Spot Characterization) CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Fire (Hot Spot Characterization) Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Land Surface Temperature CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Land Surface Temperature Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Land Surface Temperature Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Moisture Profile CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Moisture Profile Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Moisture Profile Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Temperature Profile CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Temperature Profile Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Legacy Vertical Temperature Profile Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Cloud and Moisture Imagery Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Rainfall Rate (Quantitative Precipitation Estimate) Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Reflected Shortwave Radiation Top-Of-Atmosphere CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Reflected Shortwave Radiation Top-Of-Atmosphere Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Sea Surface (Skin) Temperature Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Total Precipitable Water CONUS"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Total Precipitable Water Full Disk"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Total Precipitable Water Mesoscale"
+}{
+    "sensorDescription": "Advanced Baseline Imager",
+    "levelDescription": "2",
+    "channelDescription": "Volcanic Ash: Detection and Height Full Disk"
+}{
+    "sensorDescription": "Geostationary Lightning Mapper",
+    "levelDescription": "2",
+    "channelDescription": "Lightning Detection"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}{
+    "sensorDescription": "Solar Ultraviolet Imager",
+    "levelDescription": "1b",
+    "channelDescription": "Extreme Ultraviolet"
+}

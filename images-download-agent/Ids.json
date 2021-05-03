@@ -1,0 +1,269 @@
+{
+    "sensorId": "ABI-L1b",
+    "levelId": "RadF ",
+    "channelId": " Advanced Baseline Imager Level 1b Full Disk"
+}{
+    "sensorId": "ABI-L1b",
+    "levelId": "RadC ",
+    "channelId": " Advanced Baseline Imager Level 1b CONUS"
+}{
+    "sensorId": "ABI-L1b",
+    "levelId": "RadM ",
+    "channelId": " Advanced Baseline Imager Level 1b Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACHAC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Height CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACHAF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Height Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACHAM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Height Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACHTF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Temperature Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACHTM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Temperature Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACMC ",
+    "channelId": " Advanced Baseline Imager Level 2 Clear Sky Mask CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACMF ",
+    "channelId": " Advanced Baseline Imager Level 2 Clear Sky Mask Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACMM ",
+    "channelId": " Advanced Baseline Imager Level 2 Clear Sky Mask Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACTPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Phase CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACTPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Phase Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ACTPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Phase Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ADPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Aerosol Detection CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ADPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Aerosol Detection Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "ADPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Aerosol Detection Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "AODC ",
+    "channelId": " Advanced Baseline Imager Level 2 Aerosol Optical Depth CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "AODF ",
+    "channelId": " Advanced Baseline Imager Level 2 Aerosol Optical Depth Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CMIPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CMIPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CMIPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CODC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Optical Depth CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CODF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Optical Depth Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CPSC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Particle Size CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CPSF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Particle Size Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CPSM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Particle Size Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CTPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Pressure CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "CTPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud Top Pressure Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DMWC ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Motion Winds CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DMWF ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Motion Winds Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DMWM ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Motion Winds Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSIC ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Stability Indices CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSIF ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Stability Indices Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSIM ",
+    "channelId": " Advanced Baseline Imager Level 2 Derived Stability Indices Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSRC ",
+    "channelId": " Advanced Baseline Imager Level 2 Downward Shortwave Radiation CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSRF ",
+    "channelId": " Advanced Baseline Imager Level 2 Downward Shortwave Radiation Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "DSRM ",
+    "channelId": " Advanced Baseline Imager Level 2 Downward Shortwave Radiation Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "FDCC ",
+    "channelId": " Advanced Baseline Imager Level 2 Fire (Hot Spot Characterization) CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "FDCF ",
+    "channelId": " Advanced Baseline Imager Level 2 Fire (Hot Spot Characterization) Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LSTC ",
+    "channelId": " Advanced Baseline Imager Level 2 Land Surface Temperature CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LSTF ",
+    "channelId": " Advanced Baseline Imager Level 2 Land Surface Temperature Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LSTM ",
+    "channelId": " Advanced Baseline Imager Level 2 Land Surface Temperature Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVMPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVMPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVMPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVTPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVTPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "LVTPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "MCMIPC ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "MCMIPF ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "MCMIPM ",
+    "channelId": " Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "RRQPEF ",
+    "channelId": " Advanced Baseline Imager Level 2 Rainfall Rate (Quantitative Precipitation Estimate) Full Disk"
+}{
+    "sensorId": "ABI-L2-RSRC - Advanced Baseline Imager Level 2 Reflected Shortwave Radiation Top",
+    "levelId": "Of",
+    "channelId": "Atmosphere CONUS"
+}{
+    "sensorId": "ABI-L2-RSRF - Advanced Baseline Imager Level 2 Reflected Shortwave Radiation Top",
+    "levelId": "Of",
+    "channelId": "Atmosphere Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "SSTF ",
+    "channelId": " Advanced Baseline Imager Level 2 Sea Surface (Skin) Temperature Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "TPWC ",
+    "channelId": " Advanced Baseline Imager Level 2 Total Precipitable Water CONUS"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "TPWF ",
+    "channelId": " Advanced Baseline Imager Level 2 Total Precipitable Water Full Disk"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "TPWM ",
+    "channelId": " Advanced Baseline Imager Level 2 Total Precipitable Water Mesoscale"
+}{
+    "sensorId": "ABI-L2",
+    "levelId": "VAAF ",
+    "channelId": " Advanced Baseline Imager Level 2 Volcanic Ash: Detection and Height Full Disk"
+}{
+    "sensorId": "GLM-L2",
+    "levelId": "LCFA ",
+    "channelId": " Geostationary Lightning Mapper Level 2 Lightning Detection"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "Fe093 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "Fe131 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "Fe171 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "Fe195 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "Fe284 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "sensorId": "SUVI-L1b",
+    "levelId": "He303 ",
+    "channelId": " Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}

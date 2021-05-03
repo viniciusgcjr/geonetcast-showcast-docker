@@ -1,6 +1,6 @@
 # Dockerized geonetcast - Showcast
 
-Show the satalite images from docker containers.
+Show the satalite images from docker containers....
 
 # Developers
 

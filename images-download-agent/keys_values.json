@@ -1,0 +1,202 @@
+{
+    "keys": "ABI-L1b-RadF",
+    "valeus": "Advanced Baseline Imager Level 1b Full Disk"
+}{
+    "keys": "ABI-L1b-RadC",
+    "valeus": "Advanced Baseline Imager Level 1b CONUS"
+}{
+    "keys": "ABI-L1b-RadM",
+    "valeus": "Advanced Baseline Imager Level 1b Mesoscale"
+}{
+    "keys": "ABI-L2-ACHAC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Height CONUS"
+}{
+    "keys": "ABI-L2-ACHAF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Height Full Disk"
+}{
+    "keys": "ABI-L2-ACHAM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Height Mesoscale"
+}{
+    "keys": "ABI-L2-ACHTF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Temperature Full Disk"
+}{
+    "keys": "ABI-L2-ACHTM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Temperature Mesoscale"
+}{
+    "keys": "ABI-L2-ACMC",
+    "valeus": "Advanced Baseline Imager Level 2 Clear Sky Mask CONUS"
+}{
+    "keys": "ABI-L2-ACMF",
+    "valeus": "Advanced Baseline Imager Level 2 Clear Sky Mask Full Disk"
+}{
+    "keys": "ABI-L2-ACMM",
+    "valeus": "Advanced Baseline Imager Level 2 Clear Sky Mask Mesoscale"
+}{
+    "keys": "ABI-L2-ACTPC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Phase CONUS"
+}{
+    "keys": "ABI-L2-ACTPF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Phase Full Disk"
+}{
+    "keys": "ABI-L2-ACTPM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Phase Mesoscale"
+}{
+    "keys": "ABI-L2-ADPC",
+    "valeus": "Advanced Baseline Imager Level 2 Aerosol Detection CONUS"
+}{
+    "keys": "ABI-L2-ADPF",
+    "valeus": "Advanced Baseline Imager Level 2 Aerosol Detection Full Disk"
+}{
+    "keys": "ABI-L2-ADPM",
+    "valeus": "Advanced Baseline Imager Level 2 Aerosol Detection Mesoscale"
+}{
+    "keys": "ABI-L2-AODC",
+    "valeus": "Advanced Baseline Imager Level 2 Aerosol Optical Depth CONUS"
+}{
+    "keys": "ABI-L2-AODF",
+    "valeus": "Advanced Baseline Imager Level 2 Aerosol Optical Depth Full Disk"
+}{
+    "keys": "ABI-L2-CMIPC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery CONUS"
+}{
+    "keys": "ABI-L2-CMIPF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Full Disk"
+}{
+    "keys": "ABI-L2-CMIPM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Mesoscale"
+}{
+    "keys": "ABI-L2-CODC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Optical Depth CONUS"
+}{
+    "keys": "ABI-L2-CODF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Optical Depth Full Disk"
+}{
+    "keys": "ABI-L2-CPSC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Particle Size CONUS"
+}{
+    "keys": "ABI-L2-CPSF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Particle Size Full Disk"
+}{
+    "keys": "ABI-L2-CPSM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Particle Size Mesoscale"
+}{
+    "keys": "ABI-L2-CTPC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Pressure CONUS"
+}{
+    "keys": "ABI-L2-CTPF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud Top Pressure Full Disk"
+}{
+    "keys": "ABI-L2-DMWC",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Motion Winds CONUS"
+}{
+    "keys": "ABI-L2-DMWF",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Motion Winds Full Disk"
+}{
+    "keys": "ABI-L2-DMWM",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Motion Winds Mesoscale"
+}{
+    "keys": "ABI-L2-DSIC",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Stability Indices CONUS"
+}{
+    "keys": "ABI-L2-DSIF",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Stability Indices Full Disk"
+}{
+    "keys": "ABI-L2-DSIM",
+    "valeus": "Advanced Baseline Imager Level 2 Derived Stability Indices Mesoscale"
+}{
+    "keys": "ABI-L2-DSRC",
+    "valeus": "Advanced Baseline Imager Level 2 Downward Shortwave Radiation CONUS"
+}{
+    "keys": "ABI-L2-DSRF",
+    "valeus": "Advanced Baseline Imager Level 2 Downward Shortwave Radiation Full Disk"
+}{
+    "keys": "ABI-L2-DSRM",
+    "valeus": "Advanced Baseline Imager Level 2 Downward Shortwave Radiation Mesoscale"
+}{
+    "keys": "ABI-L2-FDCC",
+    "valeus": "Advanced Baseline Imager Level 2 Fire (Hot Spot Characterization) CONUS"
+}{
+    "keys": "ABI-L2-FDCF",
+    "valeus": "Advanced Baseline Imager Level 2 Fire (Hot Spot Characterization) Full Disk"
+}{
+    "keys": "ABI-L2-LSTC",
+    "valeus": "Advanced Baseline Imager Level 2 Land Surface Temperature CONUS"
+}{
+    "keys": "ABI-L2-LSTF",
+    "valeus": "Advanced Baseline Imager Level 2 Land Surface Temperature Full Disk"
+}{
+    "keys": "ABI-L2-LSTM",
+    "valeus": "Advanced Baseline Imager Level 2 Land Surface Temperature Mesoscale"
+}{
+    "keys": "ABI-L2-LVMPC",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile CONUS"
+}{
+    "keys": "ABI-L2-LVMPF",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile Full Disk"
+}{
+    "keys": "ABI-L2-LVMPM",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Moisture Profile Mesoscale"
+}{
+    "keys": "ABI-L2-LVTPC",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile CONUS"
+}{
+    "keys": "ABI-L2-LVTPF",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile Full Disk"
+}{
+    "keys": "ABI-L2-LVTPM",
+    "valeus": "Advanced Baseline Imager Level 2 Legacy Vertical Temperature Profile Mesoscale"
+}{
+    "keys": "ABI-L2-MCMIPC",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery CONUS"
+}{
+    "keys": "ABI-L2-MCMIPF",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Full Disk"
+}{
+    "keys": "ABI-L2-MCMIPM",
+    "valeus": "Advanced Baseline Imager Level 2 Cloud and Moisture Imagery Mesoscale"
+}{
+    "keys": "ABI-L2-RRQPEF",
+    "valeus": "Advanced Baseline Imager Level 2 Rainfall Rate (Quantitative Precipitation Estimate) Full Disk"
+}{
+    "keys": "ABI-L2-RSRC",
+    "valeus": "Advanced Baseline Imager Level 2 Reflected Shortwave Radiation Top-Of-Atmosphere CONUS"
+}{
+    "keys": "ABI-L2-RSRF",
+    "valeus": "Advanced Baseline Imager Level 2 Reflected Shortwave Radiation Top-Of-Atmosphere Full Disk"
+}{
+    "keys": "ABI-L2-SSTF",
+    "valeus": "Advanced Baseline Imager Level 2 Sea Surface (Skin) Temperature Full Disk"
+}{
+    "keys": "ABI-L2-TPWC",
+    "valeus": "Advanced Baseline Imager Level 2 Total Precipitable Water CONUS"
+}{
+    "keys": "ABI-L2-TPWF",
+    "valeus": "Advanced Baseline Imager Level 2 Total Precipitable Water Full Disk"
+}{
+    "keys": "ABI-L2-TPWM",
+    "valeus": "Advanced Baseline Imager Level 2 Total Precipitable Water Mesoscale"
+}{
+    "keys": "ABI-L2-VAAF",
+    "valeus": "Advanced Baseline Imager Level 2 Volcanic Ash: Detection and Height Full Disk"
+}{
+    "keys": "GLM-L2-LCFA",
+    "valeus": "Geostationary Lightning Mapper Level 2 Lightning Detection"
+}{
+    "keys": "SUVI-L1b-Fe093",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "keys": "SUVI-L1b-Fe131",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "keys": "SUVI-L1b-Fe171",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "keys": "SUVI-L1b-Fe195",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "keys": "SUVI-L1b-Fe284",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}{
+    "keys": "SUVI-L1b-He303",
+    "valeus": "Solar Ultraviolet Imager Level 1b Extreme Ultraviolet"
+}
